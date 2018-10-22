@@ -71,7 +71,7 @@
     "transFailed":"Charging failed,Insufficient ETH in vault."
   },
   "CardBetComponent":{
-    "betNotOpened":"Ticket holders not open the bet,be patient",
+    "betNotOpened":"Ticket holders didn't open the bet,be patient",
     "fullTimeOdds":"ODDS",
     "bet":"BET",
     "maxBet":"MAX",
