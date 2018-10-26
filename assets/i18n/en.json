@@ -36,7 +36,7 @@
     ],
     "connectPrefix":"Connected: ",
     "noPluginPC":"<a href=\"/instplugin\">MetaMask</a> not detected，you can‘t pay eth for the game. please install or unlock your <a href=\"/instplugin\">MetaMask</a> and refresh the page～",
-    "noPluginMobile":"Please open Qiu3D by <a href=\"instplugin\">Wallet APP</a>~"
+    "noPluginMobile":"Please open by <a href=\"http://cobo.com\">Cobo Wallet</a>~"
   },
   "MainContentComponent":{
     "buyTicket":"BUY TICKETS",

@@ -36,7 +36,7 @@
     ],
     "connectPrefix":"已连接到",
     "noPluginPC":"我们检测到您并没有安装或者解锁<a href=\"/instplugin\">MetaMask</a>，这样您将无法支付相关ETH。请您安装或解锁<a href=\"/instplugin\">MetaMask</a>后刷新页面重试～",
-    "noPluginMobile":"请您用<a href=\"instplugin\">移动端钱包</a>打开球乐3D以获得完整体验～"
+    "noPluginMobile":"请用<a href=\"http://cobo.com\">Cobo钱包</a>打开球乐3D以获得完整体验～"
   },
   "MainContentComponent":{
     "buyTicket":"购买球票",
