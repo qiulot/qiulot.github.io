@@ -22,6 +22,7 @@
   },
   "HeaderComponent":{
     "linkOfficial":"球乐官网",
+    "linkBlog":"团队博客",
     "linkWiki":"玩法Wiki",
     "linkContracts":"智能合约",
     "chgLanguage":"English",
@@ -40,7 +41,7 @@
   },
   "MainContentComponent":{
     "buyTicket":"购买球票",
-    "chooseOptions":"请选择1-5种玩法，玩法之间互不影响",
+    "chooseOptions":"请选择1-5种玩法，猜中任何一个选项即中奖",
     "betForMatch":"赛事竞猜",
     "betForYourTeam":"请选择您认为能获胜的队伍进行投注",
     "ruleExp":"解释说明",

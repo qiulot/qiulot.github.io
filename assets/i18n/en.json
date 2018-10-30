@@ -22,6 +22,7 @@
   },
   "HeaderComponent":{
     "linkOfficial":"Website",
+    "linkBlog":"Blog",
     "linkWiki":"Wiki",
     "linkContracts":"Contracts",
     "chgLanguage":"中文",
@@ -40,7 +41,7 @@
   },
   "MainContentComponent":{
     "buyTicket":"BUY TICKETS",
-    "chooseOptions":"Pick 1-5 options,option is individual",
+    "chooseOptions":"Choose 1-5 opts. 1 hit got JACKSPOT",
     "betForMatch":"BETS",
     "betForYourTeam":"Choose your winning team to bet",
     "ruleExp":"HOW TO PLAY",
